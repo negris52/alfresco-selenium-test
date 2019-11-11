@@ -1,4 +1,5 @@
-source 'https://rubygems.org' do
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
   gem 'rspec'
   gem 'selenium-webdriver'
-end
